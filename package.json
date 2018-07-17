@@ -1,0 +1,19 @@
+{
+  "name": "basic-node-operations",
+  "version": "1.0.0",
+  "description": "Basic Node Operations checkpoint",
+  "main": "bash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andyprickett/basic-node-operations.git"
+  },
+  "author": "Andy Prickett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andyprickett/basic-node-operations/issues"
+  },
+  "homepage": "https://github.com/andyprickett/basic-node-operations#readme"
+}
